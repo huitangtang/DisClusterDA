@@ -1,5 +1,5 @@
 # DisClusterDA
-Code release for Unsupervised Domain Adaptation via Distilled Discriminative Clustering.
+Code release for Unsupervised Domain Adaptation via Distilled Discriminative Clustering published in Pattern Recognition.
 
 The paper is available [here](https://authors.elsevier.com/a/1elDO77nKgiag).
 
