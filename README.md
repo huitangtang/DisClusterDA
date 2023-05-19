@@ -1,5 +1,5 @@
 # DisClusterDA
-Code release for Unsupervised Domain Adaptation via Distilled Discriminative Clustering published in Pattern Recognition in 2022.
+Code release for Unsupervised Domain Adaptation via Distilled Discriminative Clustering published by Pattern Recognition in 2022.
 
 [Project Page](https://huitangtang.github.io/DisClusterDA/) $\cdot$ [PDF Download](https://arxiv.org/pdf/2302.11984)
 
