@@ -1,0 +1,9 @@
+@article{tang2022unsupervised,
+  title={Unsupervised domain adaptation via distilled discriminative clustering},
+  author={Tang, Hui and Wang, Yaowei and Jia, Kui},
+  journal={Pattern Recognition},
+  volume={127},
+  pages={108638},
+  year={2022},
+  publisher={Pergamon}
+}
